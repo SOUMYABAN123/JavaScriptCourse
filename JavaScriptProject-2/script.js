@@ -31,3 +31,4 @@ document.addEventListener('keydown', function (e) {
     overlay.classList.add('hidden');
   }
 });
+console.log('Modal opened');
